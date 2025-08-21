@@ -62,7 +62,7 @@ MCP 서버는 프로젝트의 도구 허브로서 개발·운영에 필요한 �
 ## 👥 Team Information
 | 이름                                       | 역할 | Email                |
 | -------------------------------------------- | ------ | -------------------- |
-| [정유현]([https://github.com](https://github.com/top6543top)) | PM/BE | top6543top@gmail.com |
+| [정유현](https://github.com/top6543top) | PM/BE | top6543top@gmail.com |
 | [공기훈](https://github.com/a1rhun) | FE | gongja124@dgu.ac.kr |
 | [손승현](https://github.com/son0131) | FE | s209085@dgu.ac.kr |
 | [윤찬영](https://github.com/cyyoon0311) | FE | cy_0311@naver.com|
