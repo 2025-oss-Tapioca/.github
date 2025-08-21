@@ -40,7 +40,7 @@ MCP 서버는 프로젝트의 도구 허브로서 개발·운영에 필요한 �
 ### 1. 성능/ 트래픽 테스트(vegeta)
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/5eef93f6-c98f-4159-84e2-b642c6dc0bcb" />
 대상, 헤더/ 인증을 사용자가 입력한 ID, 비밀번호를 가지고 로그인 API를 호출해 Jwt를 자동으로 호출하며 진행합니다.</br>
-사용자의 입력에 따른 정보를 통해 시나리오를 구성하고 실행 한 후 지연 분포 50/95/99th, 처리량, 성공률, 상태코드등의 지표를 수집하고 저장합니다. </br></br>
+입력에 따른 정보를 통해 시나리오를 구성하고 실행 한 후 지연 분포 50/95/99th, 처리량, 성공률, 상태코드등의 지표를 수집하고 저장합니다. </br></br>
 
 ### 2. 코드 스캐폴딩
 <img width="1360" height="974" alt="Image" src="https://github.com/user-attachments/assets/e475d6cf-7292-44ea-8ace-6dd008f81170" />
@@ -56,7 +56,7 @@ MCP 서버는 프로젝트의 도구 허브로서 개발·운영에 필요한 �
 전체 대시보드에서는 전체 로그 스트림/검색/저장·내보내기와 에러 패턴·Trace/Span 상관관계를 상세히 탐색할 수 있습니다.</br></br>
 
 ## 📝 Tutorial
-[![Image](https://github.com/user-attachments/assets/d121e2df-0be5-4237-bd6d-9fc0b847d491)]([https://youtu.be/YJEwhAWdwCk?si=ftrZV3l_FVHR5fQs](https://youtu.be/2SJrGJo5cbY?si=8E8WdqizejOiAjge))
+[![Image](https://github.com/user-attachments/assets/d121e2df-0be5-4237-bd6d-9fc0b847d491)](https://youtu.be/2SJrGJo5cbY?si=8E8WdqizejOiAjge)
 </br>
 
 ## 👥 Team Information
@@ -66,8 +66,8 @@ MCP 서버는 프로젝트의 도구 허브로서 개발·운영에 필요한 �
 | [공기훈](https://github.com/a1rhun) | FE | gongja124@dgu.ac.kr |
 | [손승현](https://github.com/son0131) | FE | s209085@dgu.ac.kr |
 | [윤찬영](https://github.com/cyyoon0311) | FE | cy_0311@naver.com|
-| [이시우](https://github.com/sw4796) | BE | swlee4796@naver.com |
-| [이재혁](https://github.com/Hyuk-II) | BE | jaehyuck2.lee@gmail.com |
+| [이시우](https://github.com/sw4796) | AI | swlee4796@naver.com |
+| [이재혁](https://github.com/Hyuk-II) | AI/BE | jaehyuck2.lee@gmail.com |
 | [조수현](https://github.com/sssuhyeon) | BE | ckc020506@gmail.com |
 | [황윤수](https://github.com/hys010730) | BE | githwang01@gmail.com |
 </br>
