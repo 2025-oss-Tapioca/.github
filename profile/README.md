@@ -37,13 +37,12 @@ MCP 서버는 프로젝트의 도구 허브로서 개발·운영에 필요한 �
 ## 🔑 Key Features
 
 
-### 1.성능/ 트래픽 테스트(vegeta)
-
+### 1. 성능/ 트래픽 테스트(vegeta)
 <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/5eef93f6-c98f-4159-84e2-b642c6dc0bcb" />
 대상, 헤더/ 인증을 사용자가 입력한 ID, 비밀번호를 가지고 로그인 API를 호출해 Jwt를 자동으로 호출하며 진행합니다.</br>
 사용자의 입력에 따른 정보를 통해 시나리오를 구성하고 실행 한 후 지연 분포 50/95/99th, 처리량, 성공률, 상태코드등의 지표를 수집하고 저장합니다. </br></br>
 
-### 2.코드 스캐폴딩
+### 2. 코드 스캐폴딩
 <img width="1360" height="974" alt="Image" src="https://github.com/user-attachments/assets/e475d6cf-7292-44ea-8ace-6dd008f81170" />
 사용자가 필요한한 테이블 정보를 입력하여 테이블을 생성하고, 테이블들의 관계를 연결하여 ERD를 제작할 수 있습니다.
 <img width="1360" height="974" alt="Image" src="https://github.com/user-attachments/assets/ee85f6f8-79f5-4bc7-8326-8267f0e63750" /> 
@@ -51,26 +50,27 @@ MCP 서버는 프로젝트의 도구 허브로서 개발·운영에 필요한 �
 레이어드 패키징/기본 디렉토리 구조와 함께 DTO·매퍼·예외 처리·테스트 스켈레톤까지 자동 구성해 일관된 규약과 확장 가능한 토대를 제공합니다. </br></br>
 
 
-### 3.로그 분석 CLI 
+### 3. 로그 분석 CLI 
 <img width="1590" height="1128" alt="Image" src="https://github.com/user-attachments/assets/e8b6a6fd-5b91-4865-bd6b-8463568cf4e4" />
 사용자 챗봇 요청에 따라 기간·서비스·레벨 등 필터를 지정해 조회·집계하며, 챗봇 화면에서는 요약 지표와 핵심 에러·빠른 필터를 즉시 확인하고, 
 전체 대시보드에서는 전체 로그 스트림/검색/저장·내보내기와 에러 패턴·Trace/Span 상관관계를 상세히 탐색할 수 있습니다.</br></br>
 
 ## 📝 Tutorial
 [![Image](https://github.com/user-attachments/assets/d121e2df-0be5-4237-bd6d-9fc0b847d491)]([https://youtu.be/YJEwhAWdwCk?si=ftrZV3l_FVHR5fQs](https://youtu.be/2SJrGJo5cbY?si=8E8WdqizejOiAjge))
+</br>
 
 ## 👥 Team Information
 | 이름                                       | 역할 | Email                |
 | -------------------------------------------- | ------ | -------------------- |
 | [정유현]([https://github.com](https://github.com/top6543top)) | PM/BE | top6543top@gmail.com |
-| [공기훈]([https://github.com](https://github.com/a1rhun)) | FE | gongja124@dgu.ac.kr |
-| [손승현]([https://github.com](https://github.com/son0131)) | FE | s209085@dgu.ac.kr |
-| [윤찬영]([https://github.com](https://github.com/cyyoon0311)) | FE | cy_0311@naver.com|
-| [이시우]([https://github.com](https://github.com/sw4796)) | BE | swlee4796@naver.com |
-| [이재혁]([https://github.com](https://github.com/Hyuk-II)) | BE | jaehyuck2.lee@gmail.com |
-| [조수현]([https://github.com](https://github.com/sssuhyeon)) | BE | ckc020506@gmail.com |
-| [황윤수]([https://github.com](https://github.com/hys010730)) | BE | githwang01@gmail.com |
-
+| [공기훈](https://github.com/a1rhun) | FE | gongja124@dgu.ac.kr |
+| [손승현](https://github.com/son0131) | FE | s209085@dgu.ac.kr |
+| [윤찬영](https://github.com/cyyoon0311) | FE | cy_0311@naver.com|
+| [이시우](https://github.com/sw4796) | BE | swlee4796@naver.com |
+| [이재혁](https://github.com/Hyuk-II) | BE | jaehyuck2.lee@gmail.com |
+| [조수현](https://github.com/sssuhyeon) | BE | ckc020506@gmail.com |
+| [황윤수](https://github.com/hys010730) | BE | githwang01@gmail.com |
+</br>
 
 
 ## 🤝How to Contribute
