@@ -67,7 +67,7 @@ MCP 서버는 프로젝트의 도구 허브로서 개발·운영에 필요한 �
 | [손승현](https://github.com/son0131) | FE | s209085@dgu.ac.kr |
 | [윤찬영](https://github.com/cyyoon0311) | FE | cy_0311@naver.com|
 | [이시우](https://github.com/sw4796) | AI | swlee4796@naver.com |
-| [이재혁](https://github.com/Hyuk-II) | AI/BE | jaehyuck2.lee@gmail.com |
+| [이재혁](https://github.com/Hyuk-II) | AI/BE | jaehyuk2.lee@gmail.com |
 | [조수현](https://github.com/sssuhyeon) | BE | ckc020506@gmail.com |
 | [황윤수](https://github.com/hys010730) | BE | githwang01@gmail.com |
 </br>
